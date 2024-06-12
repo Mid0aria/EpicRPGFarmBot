@@ -202,7 +202,7 @@ m)
 
 ## 📚・Discord RPC
 
-![](https://raw.githubusercontent.com/Mid0aria/epicrpgfarmbot/main/images/rpc.jpg)
+![](https://raw.githubusercontent.com/Mid0aria/epicrpgfarmbot/main/images/rpc.png)
 
 ## ⚠️・Captcha Alert
 
