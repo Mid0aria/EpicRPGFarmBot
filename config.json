@@ -1,0 +1,77 @@
+{
+    "midoservices_authkey": "",
+
+    "prefix": "e!",
+    "token": "",
+    "channelid": "",
+    "userid": "",
+    "commands": {
+        "rewards": {
+            "daily": true,
+            "weekly": true
+        },
+        "experience": {
+            "hunt": true,
+            "adventure": true,
+            "training": true
+        },
+        "progress": {
+            "farm": false,
+            "working": {
+                "chop": false,
+                "fish": true,
+                "pickup": false,
+                "mine": false,
+                "axe": false,
+                "net": false,
+                "ladder": false
+            }
+        }
+    },
+    "settings": {
+        "discordrpc": true,
+        "autophrases": true,
+        "event": {
+            "autojoin": true,
+            "autospecialtrade": true,
+            "autoarena": true
+        },
+
+        "inventory": {
+            "check": true,
+            "lifepotion": {
+                "autouse": true,
+                "hplimit": 170
+            },
+            "lootbox": {
+                "autouse": true,
+                "types": {
+                    "common lootbox": true,
+                    "uncommon lootbox": true,
+                    "rare lootbox": true,
+                    "EPIC lootbox": true,
+                    "EDGY lootbox": true,
+                    "OMEGA lootbox": true
+                }
+            },
+            "sell": {
+                "enable": false,
+                "types": {
+                    "normie fish": true,
+                    "golden fish": true,
+                    "EPIC fish": true,
+                    "wooden log": true,
+                    "EPIC log": true,
+                    "SUPER log": true,
+                    "apple": false,
+                    "banana": false,
+                    "bread": false,
+                    "carrot": false,
+                    "flask": true,
+                    "wolf skin": true,
+                    "zombie eye": true
+                }
+            }
+        }
+    }
+}
