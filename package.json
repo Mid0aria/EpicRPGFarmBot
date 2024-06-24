@@ -7,7 +7,7 @@
         "node-notifier": "^10.0.1"
     },
     "name": "epicrpgfarmbot",
-    "version": "0.0.1",
+    "version": "0.0.6",
     "description": "Discord EpicRPG Farm Bot",
     "main": "bot.js",
     "scripts": {
