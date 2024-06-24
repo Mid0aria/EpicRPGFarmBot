@@ -7,19 +7,23 @@
     "userid": "",
     "commands": {
         "rewards": {
-            "daily": true,
-            "weekly": true
+            "daily": false,
+            "weekly": false,
+            "vote": {
+                "enable": false,
+                "browser": "chrome"
+            }
         },
         "experience": {
-            "hunt": true,
-            "adventure": true,
-            "training": true
+            "hunt": false,
+            "adventure": false,
+            "training": false
         },
         "progress": {
             "farm": false,
             "working": {
                 "chop": false,
-                "fish": true,
+                "fish": false,
                 "pickup": false,
                 "mine": false,
                 "axe": false,
@@ -30,46 +34,47 @@
     },
     "settings": {
         "discordrpc": true,
-        "autophrases": true,
+        "autophrases": false,
         "event": {
-            "autojoin": true,
-            "autospecialtrade": true,
-            "autoarena": true
+            "autojoin": false,
+            "autospecialtrade": false,
+            "autoarena": false
         },
 
         "inventory": {
-            "check": true,
+            "check": false,
             "lifepotion": {
-                "autouse": true,
+                "autouse": false,
                 "hplimit": 170
             },
             "lootbox": {
-                "autouse": true,
+                "autouse": false,
                 "types": {
-                    "common lootbox": true,
-                    "uncommon lootbox": true,
-                    "rare lootbox": true,
-                    "EPIC lootbox": true,
-                    "EDGY lootbox": true,
-                    "OMEGA lootbox": true
+                    "common lootbox": false,
+                    "uncommon lootbox": false,
+                    "rare lootbox": false,
+                    "EPIC lootbox": false,
+                    "EDGY lootbox": false,
+                    "OMEGA lootbox": false
                 }
             },
             "sell": {
-                "enable": false,
+                "enable": true,
                 "types": {
-                    "normie fish": true,
-                    "golden fish": true,
-                    "EPIC fish": true,
-                    "wooden log": true,
-                    "EPIC log": true,
-                    "SUPER log": true,
+                    "normie fish": false,
+                    "golden fish": false,
+                    "EPIC fish": false,
+                    "wooden log": false,
+                    "EPIC log": false,
+                    "SUPER log": false,
+                    "MEGA log": false,
                     "apple": false,
                     "banana": false,
                     "bread": false,
                     "carrot": false,
-                    "flask": true,
-                    "wolf skin": true,
-                    "zombie eye": true
+                    "flask": false,
+                    "wolf skin": false,
+                    "zombie eye": false
                 }
             }
         }

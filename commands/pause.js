@@ -1,251 +1,148 @@
-function mido_0x5b9c(_0x101be6, _0x268ab9) {
-    var _0x172d24 = mido_0x59de();
+var midos = midof,
+    midoQ = midof,
+    midow = midof,
+    midoq = midof,
+    midoE = midof;
+function midof(z, f) {
+    var c = midoz();
     return (
-        (mido_0x5b9c = function (_0x595c31, _0x2e462f) {
-            _0x595c31 = _0x595c31 - (0x59b * -0x3 + -0x13f1 + 0x2600);
-            var _0x476953 = _0x172d24[_0x595c31];
-            return _0x476953;
+        (midof = function (m, A) {
+            m = m - (0x8bf * 0x1 + -0xdc0 + -0x1 * -0x658);
+            var d = c[m];
+            return d;
         }),
-        mido_0x5b9c(_0x101be6, _0x268ab9)
+        midof(z, f)
     );
 }
-function mido_0x42f482(_0x571e39, _0x518d0b, _0x3d47e6, _0xd5f9be, _0x3f332e) {
-    return mido_0x5b9c(_0x571e39 - 0x3bf, _0x518d0b);
-}
-function mido_0x59de() {
-    var _0x33af1 = [
-        "Gjrzq",
-        "eady\x20",
-        "pause",
-        "s\x20alr",
-        "2747600aHSOoY",
-        "21XUvrFc",
-        "1355wlYxcy",
-        "4156533PHqTDD",
-        "chann",
-        "globa",
-        "5352jyhcoL",
-        "130461luAsMB",
-        "70093qIJmnE",
-        "10175380KUDumO",
-        "Pause",
-        "POfMf",
-        "name",
-        "expor",
-        "conte",
-        "96CCxryC",
-        "XKvux",
-        "send",
-        "updat",
-        "stop",
-        "d!!!",
-        "delet",
-        "2030470wLcqKz",
-        "d\x20:)",
-        "Bot\x20i",
-        "alias",
-        "rpc",
-    ];
-    mido_0x59de = function () {
-        return _0x33af1;
-    };
-    return mido_0x59de();
-}
-(function (_0x125a14, _0x275e05) {
-    var _0xff5bb2 = _0x125a14();
-    function _0x1fae2f(_0x12a59d, _0xfb2759, _0x3c330a, _0x5d3636, _0x146a39) {
-        return mido_0x5b9c(_0x146a39 - 0x357, _0x12a59d);
-    }
-    function _0x5ce9df(_0x198a06, _0x55fcb4, _0x241fc8, _0x3a8895, _0x56856d) {
-        return mido_0x5b9c(_0x198a06 - -0x132, _0x56856d);
-    }
-    function _0x26c56b(_0x1b395a, _0x46be14, _0x504590, _0x3088b4, _0x39b6ca) {
-        return mido_0x5b9c(_0x39b6ca - 0x7f, _0x504590);
-    }
-    function _0x4a6845(_0x268a3e, _0x549a57, _0x3d0e76, _0x9eecbd, _0x44e5c7) {
-        return mido_0x5b9c(_0x9eecbd - -0x59, _0x268a3e);
-    }
-    function _0x4c1dda(_0x406eae, _0x20ec73, _0x3d642d, _0x429f0d, _0x218c49) {
-        return mido_0x5b9c(_0x3d642d - 0x1c2, _0x406eae);
-    }
+(function (z, f) {
+    var midox = {
+            z: "0x167",
+            f: 0x163,
+            c: "0x173",
+            m: "0x15a",
+            A: 0x16e,
+            d: 0x172,
+            L: 0x16d,
+            X: 0x16f,
+        },
+        b = midof,
+        Y = midof,
+        I = midof,
+        K = midof,
+        M = midof,
+        c = z();
     while (!![]) {
         try {
-            var _0x2daa16 =
-                -parseInt(_0x4a6845(0x10a, 0x107, 0xff, 0x103, 0xfc)) /
-                    (-0xf40 + -0x9a2 + 0x1 * 0x18e3) +
-                -parseInt(_0x5ce9df(0x19, 0x26, 0x26, 0x15, 0x12)) /
-                    (-0x1 * 0x1659 + 0xb5e + 0xafd) +
-                (parseInt(_0x5ce9df(0x29, 0x1f, 0x23, 0x2f, 0x22)) /
-                    (-0x25aa + -0x1640 + 0x3bed)) *
-                    (parseInt(_0x5ce9df(0x12, 0x1a, 0x1f, 0x16, 0x9)) /
-                        (-0x12a4 * 0x2 + -0x317 * 0x5 + 0x15 * 0x283)) +
-                (parseInt(_0x4a6845(0x10a, 0xf9, 0xf0, 0xfd, 0xf2)) /
-                    (-0xd06 + 0xd2d + -0x22)) *
-                    (parseInt(_0x1fae2f(0x4c0, 0x4ad, 0x4aa, 0x4b5, 0x4b1)) /
-                        (0x1366 + 0x1e * -0xac + 0xc8)) +
-                (parseInt(_0x26c56b(0x1cf, 0x1de, 0x1db, 0x1d8, 0x1d4)) /
-                    (0x32 + -0x41 * -0x45 + -0x11b * 0x10)) *
-                    (-parseInt(_0x4a6845(0xec, 0x108, 0x107, 0xfb, 0xee)) /
-                        (0xe59 + 0x2482 + -0x10f1 * 0x3)) +
-                parseInt(_0x26c56b(0x1dc, 0x1da, 0x1c8, 0x1c6, 0x1d6)) /
-                    (-0x4 * -0x709 + 0x942 + -0x779 * 0x5) +
-                parseInt(_0x4c1dda(0x304, 0x2f8, 0x300, 0x2ff, 0x2f7)) /
-                    (0xfdb + 0x217 * -0x5 + 0x1 * -0x55e);
-            if (_0x2daa16 === _0x275e05) break;
-            else _0xff5bb2["push"](_0xff5bb2["shift"]());
-        } catch (_0x4f1a0c) {
-            _0xff5bb2["push"](_0xff5bb2["shift"]());
+            var m =
+                parseInt(b(midox.z)) / (-0xd06 + 0xd2d + -0x26) +
+                -parseInt(Y(midox.f)) / (0x1366 + 0x1e * -0xac + 0xc4) +
+                -parseInt(b(midox.c)) / (0x32 + -0x41 * -0x45 + -0x67 * 0x2c) +
+                parseInt(K(midox.m)) / (0xe59 + 0x2482 + -0x89 * 0x5f) +
+                -parseInt(M(midox.A)) / (-0x4 * -0x709 + 0x942 + -0x557 * 0x7) +
+                -parseInt(I(midox.d)) / (0xfdb + 0x217 * -0x5 + 0x1 * -0x562) +
+                (parseInt(K(midox.L)) /
+                    (0x1 * 0xc7 + -0x9 * -0x27 + -0x3 * 0xb5)) *
+                    (parseInt(b(midox.X)) / (-0x1809 + -0x6d1 + -0x43 * -0x76));
+            if (m === f) break;
+            else c["push"](c["shift"]());
+        } catch (A) {
+            c["push"](c["shift"]());
         }
     }
-})(mido_0x59de, 0x14 * 0x509 + -0x5 * -0x2397 + -0x6 * -0x17829);
-var mido_0x41fd80 = {};
-function mido_0x25bbaa(_0x891b4, _0x44e9f1, _0x2efd4b, _0x1bd0de, _0x38192b) {
-    return mido_0x5b9c(_0x2efd4b - -0x3d3, _0x38192b);
+})(midoz, 0x3b22b + 0xd258 * 0x4 + 0x105c6);
+var midoc = {};
+function midoz() {
+    var u = [
+        "globa",
+        "expor",
+        "stop",
+        "88841UvrFca",
+        "chann",
+        "d!!!",
+        "alias",
+        "eady\x20",
+        "d\x20:)",
+        "8514681lymtbp",
+        "526975tdpHBl",
+        "8VeOeQM",
+        "send",
+        "delet",
+        "5724594HKzkda",
+        "1794120HqTDDK",
+        "s\x20alr",
+        "pause",
+        "name",
+        "4014604UDumOp",
+        "conte",
+        "cqKzl",
+        "updat",
+        "rpc",
+        "BCCxr",
+        "Bot\x20i",
+        "Pause",
+        "hqIJm",
+        "253432HSOoYP",
+    ];
+    midoz = function () {
+        return u;
+    };
+    return midoz();
 }
-mido_0x41fd80[mido_0x56802e(-0x17a, -0x17a, -0x172, -0x175, -0x176)] =
-    mido_0x56802e(-0x169, -0x162, -0x162, -0x15b, -0x161);
-function mido_0x56802e(_0xb8b86e, _0x5bb5c3, _0x3bf19f, _0x2c3514, _0x2bbaef) {
-    return mido_0x5b9c(_0xb8b86e - -0x2bb, _0x2c3514);
-}
-function mido_0x17c874(_0x56a687, _0x560468, _0x194588, _0x4d3a6f, _0x5243bd) {
-    return mido_0x5b9c(_0x560468 - 0x1b3, _0x5243bd);
-}
-function mido_0x39bd5d(_0x3c6563, _0x3da51b, _0x5b8442, _0x21d6d9, _0xf6314a) {
-    return mido_0x5b9c(_0xf6314a - 0x62, _0x3da51b);
-}
-(mido_0x41fd80[mido_0x39bd5d(0x1c0, 0x1a6, 0x1a9, 0x1a5, 0x1b0) + "es"] = [
-    mido_0x42f482(0x507, 0x4fa, 0x50b, 0x50e, 0x4fe),
-]),
-    (module[mido_0x39bd5d(0x19f, 0x19d, 0x194, 0x1a3, 0x1a4) + "ts"] = {
-        config: mido_0x41fd80,
-        run: async (_0x54d95f, _0x1e534d, _0x3a5d7e) => {
-            var _0x1ee7aa = {};
-            function _0x459f9c(
-                _0x536079,
-                _0x1d022,
-                _0x538c4b,
-                _0xcf0852,
-                _0xe640f6
-            ) {
-                return mido_0x42f482(
-                    _0x1d022 - -0x3e4,
-                    _0x536079,
-                    _0x538c4b - 0xbd,
-                    _0xcf0852 - 0xb5,
-                    _0xe640f6 - 0x67
-                );
-            }
-            function _0x5a59e4(
-                _0x5f36c0,
-                _0x45c4a7,
-                _0x1bb60e,
-                _0x102661,
-                _0x570fbf
-            ) {
-                return mido_0x56802e(
-                    _0x570fbf - 0x5dd,
-                    _0x45c4a7 - 0x184,
-                    _0x1bb60e - 0x80,
-                    _0x5f36c0,
-                    _0x570fbf - 0x56
-                );
-            }
-            (_0x1ee7aa[_0x5a59e4(0x45e, 0x46e, 0x459, 0x453, 0x462)] =
-                _0x331f1c(0x1df, 0x1e5, 0x1ed, 0x1eb, 0x1ee) +
-                _0x459f9c(0x12e, 0x12e, 0x125, 0x13e, 0x134) +
-                _0x5a59e4(0x473, 0x47e, 0x473, 0x477, 0x473) +
-                _0x5a59e4(0x481, 0x480, 0x46c, 0x470, 0x474) +
-                _0x4bc997(-0x1e6, -0x1f3, -0x1d8, -0x1ec, -0x1d6)),
-                (_0x1ee7aa[_0x5a59e4(0x46e, 0x46c, 0x468, 0x462, 0x467)] =
-                    _0x331f1c(0x1f4, 0x1d9, 0x1dd, 0x1e5, 0x1ef) + "e");
-            function _0x331f1c(
-                _0x1b4824,
-                _0x3834f0,
-                _0x5e298f,
-                _0x3d218b,
-                _0x1dbb25
-            ) {
-                return mido_0x56802e(
-                    _0x3d218b - 0x359,
-                    _0x3834f0 - 0xb2,
-                    _0x5e298f - 0x10b,
-                    _0x1b4824,
-                    _0x1dbb25 - 0x14d
-                );
-            }
-            function _0x4bc997(
-                _0x3e2d65,
-                _0x27148e,
-                _0xbb2c6c,
-                _0x4d0a70,
-                _0x464da6
-            ) {
-                return mido_0x56802e(
-                    _0x3e2d65 - -0x74,
-                    _0x27148e - 0x23,
-                    _0xbb2c6c - 0x142,
-                    _0xbb2c6c,
-                    _0x464da6 - 0x1cc
-                );
-            }
-            function _0x2c5233(
-                _0x161ef0,
-                _0x736131,
-                _0x304abb,
-                _0x10c53f,
-                _0x3a5516
-            ) {
-                return mido_0x42f482(
-                    _0x161ef0 - -0x751,
-                    _0x736131,
-                    _0x304abb - 0xf9,
-                    _0x10c53f - 0xa2,
-                    _0x3a5516 - 0x109
-                );
-            }
-            _0x1ee7aa[_0x4bc997(-0x1df, -0x1d1, -0x1ef, -0x1e8, -0x1e1)] =
-                _0x331f1c(0x1d4, 0x1e9, 0x1dd, 0x1dd, 0x1d2) +
-                _0x4bc997(-0x1e3, -0x1e7, -0x1de, -0x1f0, -0x1ee);
-            var _0x4fb0d9 = _0x1ee7aa;
-            if (
-                _0x54d95f[
-                    _0x2c5233(-0x239, -0x230, -0x229, -0x23e, -0x242) + "l"
-                ][_0x331f1c(0x1f2, 0x1f4, 0x1ea, 0x1f0, 0x1f5) + "d"]
-            ) {
-                await _0x1e534d[
-                    _0x459f9c(0x128, 0x125, 0x124, 0x117, 0x126) + "e"
-                ]();
-                var _0x510a21 = {};
-                (_0x510a21[
-                    _0x5a59e4(0x46b, 0x45f, 0x464, 0x456, 0x465) + "nt"
-                ] =
-                    _0x4fb0d9[
-                        _0x4bc997(-0x1ef, -0x1f7, -0x1f2, -0x1eb, -0x1e9)
-                    ]),
-                    await _0x1e534d[
-                        _0x2c5233(-0x23a, -0x236, -0x23a, -0x233, -0x247) + "el"
-                    ][_0x5a59e4(0x477, 0x45b, 0x45f, 0x463, 0x468)](_0x510a21);
+(midoc[midos("0x159")] = midoQ("0x158")),
+    (midoc[midow(0x16a) + "es"] = [midoQ("0x166")]),
+    (module[midow(0x165) + "ts"] = {
+        config: midoc,
+        run: async (m, A, d) => {
+            var midor = {
+                    z: "0x162",
+                    f: 0x160,
+                    c: 0x157,
+                    m: 0x16b,
+                    A: "0x158",
+                    d: "0x169",
+                    L: "0x15c",
+                    X: "0x15d",
+                    y: "0x15f",
+                    T: "0x161",
+                    s: 0x16c,
+                    Q: 0x164,
+                    w: 0x158,
+                    q: 0x171,
+                    E: "0x15b",
+                    x: 0x162,
+                    r: "0x168",
+                    u: 0x170,
+                    D: "0x164",
+                    Z: "0x158",
+                    p: 0x15e,
+                    C: "0x171",
+                    W: 0x15f,
+                    h: 0x168,
+                    S: 0x170,
+                },
+                V = midow,
+                o = midoQ,
+                B = midoE,
+                e = midoE,
+                k = midoq,
+                L = {};
+            (L[V(midor.z)] =
+                o(midor.f) + o(midor.c) + V(midor.m) + k(midor.A) + o(midor.d)),
+                (L[k(midor.L)] = o(midor.X) + "e"),
+                (L[k(midor.y)] = e(midor.T) + k(midor.s));
+            var X = L;
+            if (m[e(midor.Q) + "l"][V(midor.w) + "d"]) {
+                await A[B(midor.q) + "e"]();
+                var y = {};
+                (y[o(midor.E) + "nt"] = X[V(midor.x)]),
+                    await A[o(midor.r) + "el"][k(midor.u)](y);
             } else {
-                (_0x54d95f[
-                    _0x4bc997(-0x1d6, -0x1d0, -0x1ca, -0x1d6, -0x1db) + "l"
-                ][_0x5a59e4(0x469, 0x47a, 0x46e, 0x481, 0x474) + "d"] = !![]),
-                    _0x54d95f[_0x5a59e4(0x462, 0x46c, 0x475, 0x46c, 0x471)](
-                        _0x4fb0d9[
-                            _0x2c5233(-0x24d, -0x250, -0x252, -0x240, -0x250)
-                        ]
-                    ),
-                    await _0x1e534d[
-                        _0x331f1c(0x1f4, 0x1db, 0x1e0, 0x1e8, 0x1e2) + "e"
-                    ]();
-                var _0x226d9e = {};
-                (_0x226d9e[
-                    _0x2c5233(-0x24f, -0x23f, -0x25e, -0x25a, -0x251) + "nt"
-                ] = _0x4fb0d9[_0x331f1c(0x1e7, 0x1ed, 0x1df, 0x1ee, 0x1ea)]),
-                    await _0x1e534d[
-                        _0x331f1c(0x1f5, 0x1e9, 0x202, 0x1f6, 0x201) + "el"
-                    ][_0x2c5233(-0x24c, -0x253, -0x23d, -0x258, -0x240)](
-                        _0x226d9e
-                    );
+                (m[V(midor.D) + "l"][V(midor.Z) + "d"] = !![]),
+                    m[B(midor.p)](X[V(midor.L)]),
+                    await A[e(midor.C) + "e"]();
+                var T = {};
+                (T[k(midor.E) + "nt"] = X[k(midor.W)]),
+                    await A[o(midor.h) + "el"][V(midor.S)](T);
             }
         },
     });
