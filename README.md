@@ -248,6 +248,12 @@ node bot.js
 
 # Start Bot:
 In config.json, type [prefix]start (example: e!start) with the prefix you set in config.json to the channel whose ID you entered in channelid
+
+# Stop Bot:
+In config.json, type [prefix]stop (example: e!stop) with the prefix you set in config.json to the channel whose ID you entered in channelid
+
+# Resume Bot:
+In config.json, type [prefix]resume (example: e!resume) with the prefix you set in config.json to the channel whose ID you entered in channelid
 ```
 
 ### 📱・Android / iOS (Termux)
@@ -274,6 +280,5 @@ In config.json, type [prefix]start (example: e!start) with the prefix you set in
 In config.json, type [prefix]stop (example: e!stop) with the prefix you set in config.json to the channel whose ID you entered in channelid
 
 # Resume Bot:
-
 In config.json, type [prefix]resume (example: e!resume) with the prefix you set in config.json to the channel whose ID you entered in channelid
 ```
