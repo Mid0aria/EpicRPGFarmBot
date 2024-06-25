@@ -1,7 +1,7 @@
 dWdnY2Y6Ly9iY3JhLmZjYmd2c2wucGJ6L2dlbnB4LzVwc2tIZ1B4Y3hQVkVlWGxxVVhGb1kgcm90MTM= </br>
 6 28 15 26 15<br> {/\_\_/}</br>( • . •)</br>/ > 🤍
 
-<h1 align="center">EpicRPG Farm Bot V0.0.1(BETA)</h1>
+<h1 align="center">EpicRPG Farm Bot V0.0.2(BETA)</h1>
 <p align="center">
 
 [![Total Views](https://hits.sh/github.com/Mid0aria/epicrpgfarmbot.svg?view=today-total&label=Repo%20Today/Total%20Views&color=770ca1&labelColor=007ec6)](https://github.com/Mid0aria/epicrpgfarmbot)
@@ -11,8 +11,9 @@ dWdnY2Y6Ly9iY3JhLmZjYmd2c2wucGJ6L2dlbnB4LzVwc2tIZ1B4Y3hQVkVlWGxxVVhGb1kgcm90MTM=
 
 ### Text
 
--   [Windows / Linux](#windows--linux) - Official
--   [Android / iOS (Termux)](#android--ios-termux) - Official
+-   [🎈・Installation](#Installation)
+    -   [Windows / Linux](#windows--linux) - Official
+    -   [Android / iOS (Termux)](#android--ios-termux) - Official
 
 To get auth key, join the Discord server [here](https://discord.gg/WzYXVbXt6C), go to [`#🤖・bot-commands`](https://discord.com/channels/1202294695091507230/1203705738770256032), and send `s!key`. The official bot will directly message you with the key.
 
@@ -49,6 +50,7 @@ To get auth key, join the Discord server [here](https://discord.gg/WzYXVbXt6C), 
     -   Rewards:
         -   Daily
         -   Weekly
+        -   Vote (automatically opens the voting site in the browser if you have a vote (not working in termux))
     -   Experience:
         -   Hunt
         -   Adventure
@@ -96,6 +98,10 @@ To get auth key, join the Discord server [here](https://discord.gg/WzYXVbXt6C), 
         "rewards": {
             "daily": true, / true or false
             "weekly": true / true or false
+            "vote": {
+                "enable": true,
+                "browser": "chrome" / chrome or firefox
+            }
         },
         "experience": {
             "hunt": true, / true or false
@@ -150,6 +156,7 @@ To get auth key, join the Discord server [here](https://discord.gg/WzYXVbXt6C), 
                     "wooden log": true, / true or false
                     "EPIC log": true, / true or false
                     "SUPER log": true, / true or false
+                    "MEGA log": true, / true or false
                     "apple": false, / true or false
                     "banana": false, / true or false
                     "bread": false, / true or false
@@ -202,7 +209,7 @@ m)
 
 ## 📚・Discord RPC
 
-![](https://raw.githubusercontent.com/Mid0aria/epicrpgfarmbot/main/images/rpc.png)
+![](https://raw.githubusercontent.com/Mid0aria/epicrpgfarmbot/main/images/rpc.jpg)
 
 ## ⚠️・Captcha Alert
 
@@ -238,6 +245,9 @@ nano config.json # On linux, can also use any other preferred file writing softw
 
 # Run the bot:
 node bot.js
+
+# Start Bot:
+In config.json, type [prefix]start (example: e!start) with the prefix you set in config.json to the channel whose ID you entered in channelid
 ```
 
 ### 📱・Android / iOS (Termux)
@@ -256,4 +266,14 @@ nano config.json
 
 # Run the bot:
 node bot.js
+
+# Start Bot:
+In config.json, type [prefix]start (example: e!start) with the prefix you set in config.json to the channel whose ID you entered in channelid
+
+# Stop Bot:
+In config.json, type [prefix]stop (example: e!stop) with the prefix you set in config.json to the channel whose ID you entered in channelid
+
+# Resume Bot:
+
+In config.json, type [prefix]resume (example: e!resume) with the prefix you set in config.json to the channel whose ID you entered in channelid
 ```
