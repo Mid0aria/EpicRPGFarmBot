@@ -10,8 +10,7 @@
             "daily": false,
             "weekly": false,
             "vote": {
-                "enable": false,
-                "browser": "chrome"
+                "enable": false
             }
         },
         "experience": {
@@ -20,7 +19,15 @@
             "training": false
         },
         "progress": {
-            "farm": false,
+            "farm": {
+                "enable": false,
+                "types": {
+                    "seed": false,
+                    "potato seed": false,
+                    "carrot seed": false,
+                    "bread seed": false
+                }
+            },
             "working": {
                 "chop": false,
                 "fish": false,
@@ -59,15 +66,19 @@
                 }
             },
             "sell": {
-                "enable": true,
+                "enable": false,
                 "types": {
                     "normie fish": false,
                     "golden fish": false,
                     "EPIC fish": false,
+                    "SUPER fish": false,
                     "wooden log": false,
                     "EPIC log": false,
                     "SUPER log": false,
                     "MEGA log": false,
+                    "HYPER log": false,
+                    "ULTRA log": false,
+                    "ULTIMATE log": false,
                     "apple": false,
                     "banana": false,
                     "bread": false,

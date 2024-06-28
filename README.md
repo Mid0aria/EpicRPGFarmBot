@@ -1,7 +1,7 @@
 dWdnY2Y6Ly9iY3JhLmZjYmd2c2wucGJ6L2dlbnB4LzVwc2tIZ1B4Y3hQVkVlWGxxVVhGb1kgcm90MTM= </br>
 6 28 15 26 15<br> {/\_\_/}</br>( • . •)</br>/ > 🤍
 
-<h1 align="center">EpicRPG Farm Bot V0.0.2(BETA)</h1>
+<h1 align="center">EpicRPG Farm Bot V0.0.3(BETA)</h1>
 <p align="center">
 
 [![Total Views](https://hits.sh/github.com/Mid0aria/epicrpgfarmbot.svg?view=today-total&label=Repo%20Today/Total%20Views&color=770ca1&labelColor=007ec6)](https://github.com/Mid0aria/epicrpgfarmbot)
@@ -47,6 +47,7 @@ To get auth key, join the Discord server [here](https://discord.gg/WzYXVbXt6C), 
 ## 👑・Features
 
 -   Auto Commands:
+
     -   Rewards:
         -   Daily
         -   Weekly
@@ -57,14 +58,19 @@ To get auth key, join the Discord server [here](https://discord.gg/WzYXVbXt6C), 
         -   Training
     -   Progress:
         -   Farm
-            -   Working:
-                -   Chop
-                -   Fish
-                -   Pickup
-                -   Mine
-                -   Axe
-                -   Net
-                -   Ladder
+            -   Seed
+            -   Potato seed
+            -   Carrot seed
+            -   Bread seed
+        -   Working:
+            -   Chop
+            -   Fish
+            -   Pickup
+            -   Mine
+            -   Axe
+            -   Net
+            -   Ladder
+
 -   Event:
 
     -   Auto Join Events
@@ -100,7 +106,6 @@ To get auth key, join the Discord server [here](https://discord.gg/WzYXVbXt6C), 
             "weekly": true / true or false
             "vote": {
                 "enable": true,
-                "browser": "chrome" / chrome or firefox
             }
         },
         "experience": {
@@ -108,9 +113,17 @@ To get auth key, join the Discord server [here](https://discord.gg/WzYXVbXt6C), 
             "adventure": true, / true or false
             "training": true / true or false
         },
-        "progress": {
-            "farm": false, / true or false
-            "working": { / !!!! Make only 1 true in working commands, if you make more than 1 true, chop will be selected automatically.
+        "progress": { / !!!! Enable only one of the progress commands, if more than one progress command is enabled, only the farm command is enabled by default
+            "farm": {
+                "enable": false, / true or false
+                "types": {
+                    "seed": true, / true or false
+                    "potato seed": true, / true or false
+                    "carrot seed": true, / true or false
+                    "bread seed": true / true or false
+                }
+            },
+            "working": { / !!!! Enable only one of the run commands, if you enable more than one, by default only the chop command will be enabled.
                 "chop": false, / true or false
                 "fish": true, / true or false
                 "pickup": false, / true or false
@@ -153,14 +166,18 @@ To get auth key, join the Discord server [here](https://discord.gg/WzYXVbXt6C), 
                     "normie fish": true, / true or false
                     "golden fish": true, / true or false
                     "EPIC fish": true, / true or false
+                    "SUPER fish": true, / true or false
                     "wooden log": true, / true or false
                     "EPIC log": true, / true or false
                     "SUPER log": true, / true or false
                     "MEGA log": true, / true or false
-                    "apple": false, / true or false
-                    "banana": false, / true or false
-                    "bread": false, / true or false
-                    "carrot": false, / true or false
+                    "HYPER log": true, / true or false
+                    "ULTRA log": true, / true or false
+                    "ULTIMATE log": true, / true or false
+                    "apple": true, / true or false
+                    "banana": true, / true or false
+                    "bread": true, / true or false
+                    "carrot": true, / true or false
                     "flask": true, / true or false
                     "wolf skin": true, / true or false
                     "zombie eye": true / true or false
@@ -244,6 +261,8 @@ notepad config.json # On windows
 nano config.json # On linux, can also use any other preferred file writing software
 
 # Run the bot:
+start ./start.bat
+or
 node bot.js
 
 # Start Bot:
@@ -271,6 +290,8 @@ cd epicrpgfarmbot
 nano config.json
 
 # Run the bot:
+sh start.sh
+or
 node bot.js
 
 # Start Bot:
