@@ -1,0 +1,93 @@
+{
+    "midoservices_authkey": "",
+
+    "prefix": "e!",
+    "token": "",
+    "channelid": "",
+    "userid": "",
+    "commands": {
+        "rewards": {
+            "daily": false,
+            "weekly": false,
+            "vote": {
+                "enable": false
+            }
+        },
+        "experience": {
+            "hunt": false,
+            "adventure": false,
+            "training": false
+        },
+        "progress": {
+            "farm": {
+                "enable": false,
+                "types": {
+                    "seed": false,
+                    "potato seed": false,
+                    "carrot seed": false,
+                    "bread seed": false
+                }
+            },
+            "working": {
+                "chop": false,
+                "fish": false,
+                "pickup": false,
+                "mine": false,
+                "axe": false,
+                "net": false,
+                "ladder": false
+            }
+        }
+    },
+    "settings": {
+        "discordrpc": true,
+        "autophrases": false,
+        "event": {
+            "autojoin": false,
+            "autospecialtrade": false,
+            "autoarena": false
+        },
+
+        "inventory": {
+            "check": false,
+            "lifepotion": {
+                "autouse": false,
+                "hplimit": 170
+            },
+            "lootbox": {
+                "autouse": false,
+                "types": {
+                    "common lootbox": false,
+                    "uncommon lootbox": false,
+                    "rare lootbox": false,
+                    "EPIC lootbox": false,
+                    "EDGY lootbox": false,
+                    "OMEGA lootbox": false
+                }
+            },
+            "sell": {
+                "enable": false,
+                "types": {
+                    "normie fish": false,
+                    "golden fish": false,
+                    "EPIC fish": false,
+                    "SUPER fish": false,
+                    "wooden log": false,
+                    "EPIC log": false,
+                    "SUPER log": false,
+                    "MEGA log": false,
+                    "HYPER log": false,
+                    "ULTRA log": false,
+                    "ULTIMATE log": false,
+                    "apple": false,
+                    "banana": false,
+                    "bread": false,
+                    "carrot": false,
+                    "flask": false,
+                    "wolf skin": false,
+                    "zombie eye": false
+                }
+            }
+        }
+    }
+}

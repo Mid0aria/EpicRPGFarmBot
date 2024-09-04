@@ -1,0 +1,35 @@
+{
+    "name": "epicrpgfarmbot",
+    "version": "0.0.5.4",
+    "description": "Discord EpicRPG Farm Bot",
+    "main": "bot.js",
+    "scripts": {
+        "start": "node bot.js --trace-deprecation",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "nodejs",
+        "bot",
+        "selfbot",
+        "selfbot-for-discord",
+        "epic",
+        "rpg",
+        "epicrpg",
+        "rpgepic",
+        "selfepicrpg",
+        "selfepic",
+        "selfrpg",
+        "epicrpgfarm",
+        "epicrpgfarmbot"
+    ],
+    "author": "Mid0aria",
+    "license": "MIT",
+    "dependencies": {
+        "adm-zip": "^0.5.14",
+        "axios": "^1.7.2",
+        "chalk": "^4.1.2",
+        "discord.js-selfbot-v13": "^3.1.4",
+        "fs-extra": "^11.2.0",
+        "node-notifier": "^10.0.1"
+    }
+}
