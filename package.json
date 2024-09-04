@@ -1,6 +1,6 @@
 {
     "name": "epicrpgfarmbot",
-    "version": "0.0.5.4",
+    "version": "0.0.5.5",
     "description": "Discord EpicRPG Farm Bot",
     "main": "bot.js",
     "scripts": {

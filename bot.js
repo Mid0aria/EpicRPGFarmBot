@@ -188,11 +188,7 @@ function rpc(type) {
         .setType("PLAYING")
         .setName("EpicRPG Farm Bot")
         .setDetails("Auto Farming")
-        .setState(
-            `${client.global.paused ? "Paused" : "Running"} / Membership: ${
-                apiprojectpremiumresponse ? "Premium" : "Free"
-            }`
-        )
+        .setState(`${client.global.paused ? "Paused" : "Running"}`)
         .setStartTimestamp(Date.now())
         .setAssetsLargeImage("1247534454000586782")
         .setAssetsLargeText("Epic RPG")
